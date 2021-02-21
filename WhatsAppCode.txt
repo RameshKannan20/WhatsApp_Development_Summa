@@ -4,4 +4,5 @@ WhatsApp Code :
 2. Profile settings code
 3. Chatting Code
 4. Logout Code
+5. Hiding Last seen Logic
 
