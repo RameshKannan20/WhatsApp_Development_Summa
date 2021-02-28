@@ -8,3 +8,4 @@ WhatsApp Code :
 6. Adding Audio Call
 7. Adding Video Call
 8. Adding status where the user can play around with trains
+9. Attachments ( images, documents )
